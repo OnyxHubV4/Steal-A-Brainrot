@@ -1,0 +1,1 @@
+losdstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/42acacf6079bea077220f55c369bb4507fc45ba4c5c0f289ac78b12cdc4a5f49/download"))()
